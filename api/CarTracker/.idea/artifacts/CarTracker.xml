@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CarTracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarTracker</output-path>
+    <root id="root" />
+  </artifact>
+</component>
